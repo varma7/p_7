@@ -3,6 +3,6 @@
 ---
 ## To DO List:
 
-~~* Add : PDF ~~
+~~*Add : PDF~~
 * Improve : Opencv 
 ---
